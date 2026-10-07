@@ -1,3 +1,5 @@
+![Imagem do Desafio](images/ppt-img-2.png)
+
 # Desafio Extra: Pedra, Papel, Tesoura, Lagarto e Spock
 
 **Lógica de Programação** · para quem já concluiu o desafio anterior
